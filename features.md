@@ -22,7 +22,7 @@
 - [ ] Changing users' permissions and suspending ill users.
 
 
-## Necessary
+## Common
 
 - [ ] Sign In
 - [ ] Login
