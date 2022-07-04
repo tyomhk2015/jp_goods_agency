@@ -16,4 +16,6 @@
 - [ ] Writing comments to user's request.
 - [ ] Dashboard of users, requests, statistic of monthly profit and cost.
 - [ ] CMS for posting new goods.
+- [ ] Changing users' permissions and suspending ill users.
 
+## Necessary
