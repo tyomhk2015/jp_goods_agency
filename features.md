@@ -9,6 +9,7 @@
 - [ ] Writing comments related to goods.
 - [ ] History of bought goods.
 - [ ] A list of goods that have 'Like' mark on.
+- [ ] A list of goods currently being sold, those been sold.
 - [ ] 1 on 1 Chatting with buyer and seller(staff). (The log will be recorded)
 - [ ] Showing places/shops that user have searched on a map.
 - [ ] Payment gateway. (Paypal)
@@ -29,3 +30,4 @@
 - [ ] Login Token for verfication.
 - [ ] SMS/Email Notification when replies are received.
 - [ ] Fixed currency rate. (US, KWR, JPY)
+- [ ] LP page of the service.
