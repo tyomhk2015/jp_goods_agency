@@ -31,3 +31,4 @@
 - [ ] SMS/Email Notification when replies are received.
 - [ ] Fixed currency rate. (US, KWR, JPY)
 - [ ] LP page of the service.
+- [ ] Refund system, and criteria for entitlement.
